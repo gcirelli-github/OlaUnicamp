@@ -3,7 +3,7 @@
 public class OlaUnicamp {
 
 	public static void main(String[] args) {
-		 System.out.println( "Olá Unicamp!" );
+		 System.out.println( "Ola Unicamp!" );
 
 	}
 
